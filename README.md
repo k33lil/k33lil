@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Khaleel, a software engineer passionate about building great tech solutions. With more than 7 years of experience.
+I'm Khaleel, a software engineer passionate about building great tech solutions. with more than decade of experience.
 
 I specialize in mobile development. From coding to collaboration, here's what I bring to the table:
 
