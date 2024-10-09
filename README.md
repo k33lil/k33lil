@@ -1,4 +1,4 @@
-## Hello World 👋
+## Hi there 👋
 
 I'm Khaleel, a software engineer passionate about building great tech solutions. With more than 7 years of experience.
 
