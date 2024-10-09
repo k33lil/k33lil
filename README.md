@@ -6,7 +6,7 @@ I'm Khaleel, a software engineer passionate about building great tech solutions.
 
 I specialize in mobile development. From coding to collaboration, here's what I bring to the table:
 
-🛠️ Skills: I'm proficient in Android, iOS, React Native development.
+🛠️ Skills: I'm proficient in Android, iOS, and Hybrid mobile development.
   I love turning ideas into reality through clean, efficient code.
 
 💡 Innovation: I thrive on finding creative solutions to complex problems.
